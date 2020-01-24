@@ -1,3 +1,3 @@
 document.getElementById('github').onclick = function(){
-   console.log("I have learned even GITHUB");
+   console.log("I am trying to study GITHUB");
 };
